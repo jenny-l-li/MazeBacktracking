@@ -5,7 +5,7 @@ UPE Fall 2018 Coding Challenge
 
 To run the progam, run:
 
-```$ python upe.py```
+```$ python maze.py```
 
 #### Implementation:
 
